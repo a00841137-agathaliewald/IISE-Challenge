@@ -9,9 +9,9 @@ On IISE, 2026 edition, we worked on a fuel optimization in transport fleets proj
 5. AI model
 6. Resuts
 
-Les Huntrix team
-Maximilien Tragarz Quintana
-Paris Joshua
-Karla 
-Adolfo
-Agatha Adaluz Liewald Suárez 
+**Les Huntrix team**
+*  Maximilien Tragarz Quintana
+*  Paris Joshua Reyes Pineda
+*  Karla Yvette Aleman Pastrana
+*  Adolfo Naverrete Najera
+*  Agatha Adaluz Liewald Suárez 
